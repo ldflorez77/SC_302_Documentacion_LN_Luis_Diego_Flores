@@ -1,0 +1,2 @@
+# SC_302_Documentacion_LN_Luis_Diego_Flores
+Laboratorio de SCV
